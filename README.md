@@ -5,9 +5,10 @@
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![javaScript](https://img.shields.io/static/v1?logo=javaScript&label=&message=javaScript&color=36465D&logoColor=AAA&style=flat-square&link=)
+![typeScript](https://img.shields.io/static/v1?logo=typeScript&label=&message=typeScript&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![java](https://img.shields.io/static/v1?logo=openjdk&label=&message=java&color=36465D&logoColor=AAA&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
+<br/>
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
 ![terraform](https://img.shields.io/static/v1?logo=terraform&label=&message=terraform&color=36465D&logoColor=AAA&style=flat-square)
@@ -15,6 +16,7 @@
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
 ![playwright](https://img.shields.io/static/v1?logo=playwright&label=&message=playwright&color=36465D&logoColor=AAA&style=flat-square)
 ![cypress](https://img.shields.io/static/v1?logo=cypress&label=&message=cypress&color=36465D&logoColor=AAA&style=flat-square)
+![selenium](https://img.shields.io/static/v1?logo=selenium&label=&message=selenium&color=36465D&logoColor=AAA&style=flat-square)
 ![k6](https://img.shields.io/static/v1?logo=k6&label=&message=k6&color=36465D&logoColor=AAA&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
