@@ -1,5 +1,7 @@
-#### Hi, I'm Eugene! &nbsp;&nbsp;
+### Hi, I'm Eugene! &nbsp;&nbsp;
 👾 &#12299;I automate ALL the things. Shift-left, shift-right testing. TestOps advocate.
+<br/>
+Lead Test Automation & SDET &#12299;working in Automation, Infrastructure & Reliablity
 
 ----
 
@@ -21,8 +23,7 @@
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
-**Lead Test Automation & SDET** &#12299;working in Automation, Infrastructure & Reliablity
-<br/>
+
 ----
 
 <a href="https://www.linkedin.com/in/eugene-schepa/">
