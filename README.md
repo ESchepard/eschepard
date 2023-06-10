@@ -25,7 +25,7 @@
 <br/>
 ----
 
-<a href="https://linkedin.com/in/eschepa">
+<a href="https://www.linkedin.com/in/eugene-schepa/">
   <img align="left" alt="Eugene's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 <a href="https://www.instagram.com/">
