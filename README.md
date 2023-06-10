@@ -1,4 +1,4 @@
-### Hi, I'm Eugene! &nbsp;&nbsp;
+#### Hello there 👋 &nbsp;&nbsp;
 👾 &#12299;I automate ALL the things. Shift-left, shift-right testing. TestOps advocate.
 <br/>
 Lead Test Automation & SDET &#12299;working in Automation, Infrastructure & Reliablity
