@@ -21,7 +21,7 @@
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
-**Lead Test Automation & SDET** &#12299;_working in Automation, Infrastructure & Reliablity_
+**Lead Test Automation & SDET** &#12299;working in Automation, Infrastructure & Reliablity
 <br/>
 ----
 
