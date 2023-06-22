@@ -32,7 +32,7 @@ Lead Test Automation & SDET &#12299;working in Automation, Infrastructure & Reli
 <a href="https://discordapp.com/users/Eugewa#4325">
   <img align="left" alt="Eugene's Discord" width="20px" src="https://simpleicons.now.sh/discord/495f7e" />
 </a>
-<a href="https://www.instagram.com/">
+<a href="https://www.instagram.com/uncle__acid/">
   <img align="left" alt="Eugene's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 
